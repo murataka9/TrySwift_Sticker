@@ -14,6 +14,6 @@ Try! Swift unofficial sticker. it was vectorize images .
 - Try! Swift WebSite :http://www.tryswiftconf.com/#top
 - This sticker is open source, Because Swift is also open source.
 
-#### I can not answer to the issu and pull-request of this products. Sory.
+#### I can not answer to the issu and pull-request according this products. Sory.
 
 
