@@ -13,6 +13,6 @@ Try! Swift unofficial sticker. it was vectorize images .
 - This sticker white part(bird silhouette) size that will fit into light-emitting part (Apple logo) of the MacBook Pro 13' (non-retina).
 - Try! Swift WebSite :http://www.tryswiftconf.com/#top
 - This sticker is open source, Because Swift is also open source.
-- ##### I can not answer to the issu and pull-request .
+- ##### I can not answer to the issu and pull-request. Sory.
 
 
