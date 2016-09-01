@@ -7,9 +7,9 @@ Try! Swift unofficial sticker. it was vectorize images .
 ***
 
 ### This sticker is unofficial of Try! Swift.
-- You can select eps(illustrator 8.0~) , ai(CS6~) and PDF.
-- When　they said the complaint , if I delete on GitHub.
-- This logo was vectorize. So Size can be changed free.
+- You can select file-type for eps(illustrator 8.0~) , ai(CS6~) or PDF.
+- When they said the complaint , if I delete on GitHub.
+- This logo was vectorize. So it can be changed free of Size.
 - This sticker white part(bird silhouette) size that will fit into light-emitting part (Apple logo) of the MacBook Pro 13' (non-retina).
 - Try! Swift WebSite :http://www.tryswiftconf.com/#top
 - This sticker is open source, Because Swift is also open source.
