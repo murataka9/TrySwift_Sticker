@@ -4,6 +4,8 @@ Try! Swift unofficial sticker. it was vectorize images .
 [![Travis](https://img.shields.io/badge/license-creative%20commons%204.0-green.svg)]()
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+![sample_image](https://github.com/murataka9/TrySwift_Sticker/blob/master/sample_image/Try_Swift_Sticker_bector.png "Sticker")
+
 ***
 
 ### This sticker is unofficial of Try! Swift.
